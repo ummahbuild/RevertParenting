@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "RevertParenting",
+    "slug": "revertparenting",
+    "scheme": "revertparenting",
+    "plugins": [
+      "expo-router"
+    ],
+    "ios": {
+      "bundleIdentifier": "build.ummah.revertparenting"
+    },
+    "android": {
+      "package": "build.ummah.revertparenting"
+    }
+  }
+}
