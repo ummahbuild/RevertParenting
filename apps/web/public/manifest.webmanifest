@@ -1,0 +1,8 @@
+{
+  "name": "RevertParenting",
+  "short_name": "RevertParenting",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAF6ED",
+  "theme_color": "#174C43"
+}
