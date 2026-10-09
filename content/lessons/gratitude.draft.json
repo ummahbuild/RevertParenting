@@ -1,0 +1,25 @@
+{
+  "id": "gratitude-001",
+  "title": "Learning gratitude together",
+  "ageBands": [
+    "3-5",
+    "6-8",
+    "9-12",
+    "13-15",
+    "16-18"
+  ],
+  "parentPrimer": "Explore gratitude while allowing room for sadness and difficulty.",
+  "childExplanation": {
+    "3-5": "Name three things you appreciate.",
+    "6-8": "Make a thank-you card.",
+    "9-12": "Discuss gratitude through actions.",
+    "13-15": "Talk about gratitude and difficult feelings.",
+    "16-18": "Explore how gratitude informs choices."
+  },
+  "activity": "Each family member shares one appreciation and one act of kindness.",
+  "evidenceIds": [
+    "quran-14-7"
+  ],
+  "reviewStatus": "draft",
+  "version": 1
+}
