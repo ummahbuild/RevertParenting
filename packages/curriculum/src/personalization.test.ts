@@ -1,0 +1,3 @@
+import {describe,it,expect} from "vitest";import {recommendForFamily,backgroundDoesNotChangeCoreLesson,type Profile} from "./personalization";
+const base:Profile={parentLanguage:"en",childLanguage:"sw",ageBand:"6-8",goal:"prayer",minutes:5};
+describe("family personalization",()=>{it("keeps adult and child language separate",()=>{const r=recommendForFamily(base);expect(r.parentLanguage).toBe("en");expect(r.childLanguage).toBe("sw");});it("does not stereotype by prior religion",()=>{expect(backgroundDoesNotChangeCoreLesson({...base,priorReligiousContext:"Christian"},{...base,priorReligiousContext:"nonreligious"})).toBe(true);});it("uses explicit goals",()=>{expect(recommendForFamily(base).moduleId).toBe("A09");});});
