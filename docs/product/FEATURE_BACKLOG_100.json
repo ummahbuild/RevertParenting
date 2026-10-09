@@ -1,0 +1,1557 @@
+{
+  "version": "1.0.0",
+  "status": "proposed",
+  "note": "Features are proposals, not implemented capabilities. Religious content requires qualified review.",
+  "groups": [
+    {
+      "category": "Parent Learning Intelligence",
+      "features": [
+        {
+          "id": "RP-F001",
+          "name": "Knowledge confidence map by Islamic topic",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F002",
+          "name": "Two-minute parent refresher before child lessons",
+          "status": "idea",
+          "priority": "P0",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F003",
+          "name": "Private saved question notebook",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F004",
+          "name": "Arabic pronunciation practice",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F005",
+          "name": "Prerequisite recommendations",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F006",
+          "name": "Beginner versus deeper scholarly explanations",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F007",
+          "name": "Parent teach-back practice",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F008",
+          "name": "Islamic vocabulary notebook",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F009",
+          "name": "Scholar question queue",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F010",
+          "name": "Learning restart plan",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Parenting and Relationships",
+      "features": [
+        {
+          "id": "RP-F011",
+          "name": "Child question interpretation coach",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F012",
+          "name": "Difficult conversation rehearsal",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F013",
+          "name": "Non-Muslim grandparent relationship planner",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F014",
+          "name": "Interfaith co-parent templates",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F015",
+          "name": "Separated household routine coordination",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F016",
+          "name": "Teen faith and identity guide",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F017",
+          "name": "School accommodation letter generator",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F018",
+          "name": "Sibling learning differences",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F019",
+          "name": "Family conflict repair",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F020",
+          "name": "Parent overwhelm support",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Quran and Sunnah",
+      "features": [
+        {
+          "id": "RP-F021",
+          "name": "Parent-child Quran pathways",
+          "status": "idea",
+          "priority": "P0",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F022",
+          "name": "Verse context and tafsir explorer",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F023",
+          "name": "Hadith authenticity viewer",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F024",
+          "name": "Audio repeat and slow playback",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F025",
+          "name": "Short surah study packs",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F026",
+          "name": "Source versus interpretation cards",
+          "status": "idea",
+          "priority": "P0",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F027",
+          "name": "Quran vocabulary matching",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F028",
+          "name": "Seerah event timeline",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F029",
+          "name": "Reviewed prophetic character stories",
+          "status": "idea",
+          "priority": "P0",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F030",
+          "name": "Qualified scholar referral",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Children and Games",
+      "features": [
+        {
+          "id": "RP-F031",
+          "name": "Wudu step sequencing",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F032",
+          "name": "Salah movement explorer",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F033",
+          "name": "Arabic sound garden",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F034",
+          "name": "Cooperative kindness garden",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F035",
+          "name": "Prophet stories map",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F036",
+          "name": "Dua situation matching",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F037",
+          "name": "Islamic calendar discovery",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F038",
+          "name": "Family source detective",
+          "status": "idea",
+          "priority": "P0",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F039",
+          "name": "Mosque etiquette adventure",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F040",
+          "name": "Character storytelling builder",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Family Daily Life",
+      "features": [
+        {
+          "id": "RP-F041",
+          "name": "Five-minute activity generator",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F042",
+          "name": "Weekly learning calendar",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F043",
+          "name": "Opt-in prayer learning reminders",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F044",
+          "name": "Ramadan preparation dashboard",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F045",
+          "name": "Eid family planning kit",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F046",
+          "name": "Family charity planner",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F047",
+          "name": "First mosque visit checklist",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F048",
+          "name": "Halal food learning guide",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F049",
+          "name": "Screen-free learning mode",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F050",
+          "name": "Family gratitude journal",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Personalization and Accessibility",
+      "features": [
+        {
+          "id": "RP-F051",
+          "name": "Multiple age adaptations",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F052",
+          "name": "Independent parent and child learning pace",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F053",
+          "name": "Sensory-friendly lessons",
+          "status": "idea",
+          "priority": "P0",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F054",
+          "name": "Sign-language content roadmap",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F055",
+          "name": "Dyslexia-friendly settings",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F056",
+          "name": "Audio-only learning",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F057",
+          "name": "Offline curriculum packs",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F058",
+          "name": "Multilingual household switching",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F059",
+          "name": "RTL Arabic experience",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F060",
+          "name": "Guardian-mediated child questions",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Community and Mentorship",
+      "features": [
+        {
+          "id": "RP-F061",
+          "name": "Vetted revert parent mentors",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F062",
+          "name": "Mosque program directory",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F063",
+          "name": "Parent-only learning circles",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F064",
+          "name": "New Muslim family welcome pathway",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F065",
+          "name": "Educator office hours",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F066",
+          "name": "Parent workshops",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F067",
+          "name": "Local family learning events",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F068",
+          "name": "Mosque accessibility directory",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F069",
+          "name": "Translator contributor portal",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F070",
+          "name": "Mentor reporting and feedback",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Content Infrastructure",
+      "features": [
+        {
+          "id": "RP-F071",
+          "name": "Versioned evidence registry",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F072",
+          "name": "Hadith grading review workflow",
+          "status": "idea",
+          "priority": "P0",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F073",
+          "name": "Tafsir and fiqh review queue",
+          "status": "idea",
+          "priority": "P0",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F074",
+          "name": "Scholar approval dashboard",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F075",
+          "name": "Child-development review",
+          "status": "idea",
+          "priority": "P0",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F076",
+          "name": "Safeguarding publication gate",
+          "status": "idea",
+          "priority": "P0",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F077",
+          "name": "Translation review queue",
+          "status": "idea",
+          "priority": "P0",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F078",
+          "name": "Media licensing registry",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F079",
+          "name": "AI draft with human approval",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F080",
+          "name": "Emergency unpublish",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Family Privacy and Insights",
+      "features": [
+        {
+          "id": "RP-F081",
+          "name": "Private learning milestones",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F082",
+          "name": "Parent confidence reflection",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F083",
+          "name": "Activity feedback without faith scoring",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F084",
+          "name": "Guardian permissions",
+          "status": "idea",
+          "priority": "P0",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F085",
+          "name": "Private learning archive",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F086",
+          "name": "Export and deletion",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F087",
+          "name": "Shared-device privacy mode",
+          "status": "idea",
+          "priority": "P0",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F088",
+          "name": "Child pseudonyms",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F089",
+          "name": "Household separation and access revocation",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F090",
+          "name": "Family goal reports",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Growth and Ecosystem",
+      "features": [
+        {
+          "id": "RP-F091",
+          "name": "30-day family starter program",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F092",
+          "name": "Mosque referral landing pages",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F093",
+          "name": "Revert parent research program",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F094",
+          "name": "Shareable family lesson cards",
+          "status": "idea",
+          "priority": "P0",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F095",
+          "name": "Multilingual SEO library",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F096",
+          "name": "Builder and scholar recruitment",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F097",
+          "name": "Educational webinars",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F098",
+          "name": "Mosque cohort dashboard",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F099",
+          "name": "Sponsored family access",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        },
+        {
+          "id": "RP-F100",
+          "name": "Ethical ambassador program",
+          "status": "idea",
+          "priority": "P1",
+          "owner": "unassigned",
+          "release": "TBD",
+          "acceptance": [
+            "document user story",
+            "specify data/privacy boundaries",
+            "design loading/empty/error/offline states",
+            "write automated tests",
+            "complete relevant content and safeguarding review"
+          ]
+        }
+      ]
+    }
+  ]
+}
