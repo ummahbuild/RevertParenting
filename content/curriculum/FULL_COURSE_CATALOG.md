@@ -34,7 +34,7 @@ I01 Mercy; I02 Truthfulness; I03 Patience; I04 Generosity; I05 Gratitude; I06 Fo
 ### Track J — Family Seasons (10)
 J01 First Ramadan; J02 Preparing for Eid; J03 School Year; J04 Moving Communities; J05 New Sibling; J06 Loss and Grief; J07 Family Conflict; J08 Long-distance Relatives; J09 Travel and Worship; J10 Renewing Family Goals.
 
-Total: 112 proposed modules. This is an outline inventory, not 112 completed or approved lessons.
+Total: 114 proposed modules. This is an outline inventory, with 114 expanded draft lesson designs in content/curriculum/tracks; none are scholar-approved.
 
 ## Each module must include
 Parent primer; evidence manifest; teaching objective; child adaptations for 0–2, 3–5, 6–8, 9–12, 13–15, 16–18; a shared offline activity; discussion script; accessibility alternatives; quiz/reflection; source and licensing review; scholar approval; safety approval.
