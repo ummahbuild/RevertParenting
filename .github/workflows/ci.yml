@@ -19,7 +19,20 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-          cache: pnpm
+      # No root lockfile is committed; cache downloads without requiring one.
+      # Always install, including on a cache hit.
+      - name: Locate pnpm download store
+        id: pnpm-store
+        run: |
+          ci_pnpm_store="$(pnpm store path --silent)"
+          echo "path=$ci_pnpm_store" >> "$GITHUB_OUTPUT"
+      - name: Cache pnpm package downloads
+        uses: actions/cache@v4
+        with:
+          path: ${{ steps.pnpm-store.outputs.path }}
+          key: deps-v1-${{ runner.os }}-${{ runner.arch }}-node22-pnpm9.15.4-${{ hashFiles('**/package.json', 'pnpm-workspace.yaml', 'pnpm-lock.yaml') }}
+          restore-keys: |
+            deps-v1-${{ runner.os }}-${{ runner.arch }}-node22-pnpm9.15.4-
       - run: pnpm install --no-frozen-lockfile
       - run: pnpm typecheck
       - run: pnpm build
